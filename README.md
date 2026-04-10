@@ -7,14 +7,14 @@
 ---
 
 ## 🔍 Project Overview
-This project analyzes rice product sales, profit performance, and customer buying behavior across 17 D-Mart stores in Bangalore. The objective is to identify high-performing categories, brands, and time-based trends to support data-driven business decisions.
+This project analyzes mobile sales, profit performance, and customer buying behavior across multiple models, price segments, and states over a 3-year period (2022–2024). The goal is to identify top-performing products, market trends, and growth opportunities to support strategic business decisions.
 
 ## 🎯 Business Objective
 
-- Identify top-performing rice categories and brands
-- Analyze sales, profit, and demand patterns
-- Understand seasonality and customer behavior
-- Provide actionable recommendations to improve revenue and profitability
+- Identify top-performing mobile models
+- Analyze price segment contribution (low, medium, high)
+- Evaluate state-wise performance trends
+- Provide data-driven recommendations to improve sales & profitability
 
 ## 🛠️ Tools & Technologies
 
@@ -24,38 +24,37 @@ This project analyzes rice product sales, profit performance, and customer buyin
 
 ## 📌 Key Insights
 
-#### 🥇 Category Performance
-- Basmati Rice contributes ~65% of total profit, making it the top-performing category
-- Special occasion rice categories contribute ~88% of total profit, while daily-use rice contributes only ~12%
-- Daily-use categories (Ponni, Kolam, Sona Mansoori) show high volume but low profit margins
+#### 📊 Model Performance
+- Y29 & T4 Pro contribute ~65% of total mobile sales, making them key revenue drivers
+- T4 Pro ranks #1 in sales & profit, but shows ~2.46% lower profit vs sales contribution
+- Y29 delivers ~3.82% higher profit vs sales, making it the most profitable model
+- High-end model X200 Ultra shows declining YoY performance, indicating low demand in premium segment
 
-#### 🏷️ Brand Insights
-- Top 2 brands (Daawat & Indian Gate) contribute ~80%+ sales and ~84% profit in Basmati category
-- Overall, 12 brands exist but majority of profit is concentrated in few brands
-- Opportunity identified for new low-price brands in small packs to increase market share
+#### 🏷️ Price Segment Insights
+- Medium price segment contributes ~58% of total sales, highest among all segments
+- Lower price segment delivers ~4% higher profit vs sales, indicating better margins
+- High price segment contributes only ~9% of sales, despite higher pricing
+- Customers show strong preference for ₹18K – ₹30K price range mobiles
 
-#### 📦 Product & Quantity Insights
-- 500g & 1kg packs contribute ~75–80% of sales volume
-- 5kg & 10kg packs contribute ~68–75% of total profit
-- Indicates small packs drive demand, while bulk packs drive profitability
+#### 🌍 State-Wise Performance
+- Karnataka shows highest growth (~0.32% YoY profit increase) and consistent performance
+- Tamil Nadu leads in overall contribution but shows declining trend (-0.14% YoY)
+- Telangana outperforms population share with ~2% higher contribution, making it a high-efficiency market
+- Andhra shows declining trend in 2024 (~0.11% sales drop) indicating potential market issues
 
-#### 📅 Time-Based Insights
-- October & November contribute ~80% peak sales and profit (festival season)
-- Q4 is the highest performing quarter across sales and profit
-- Demand is highly seasonal, with significant drop in non-festival months
-
-#### 🏬 Store Performance Insights
-- Analysis across 17 stores shows consistent performance across regions
-- Population density has minimal impact on sales & profit distribution
-- Top-performing stores identified across low, medium, and high population areas
+#### 📈 Trend Analysis
+- Year 2022 shows strongest overall performance across sales, profit, and volume
+- Medium segment dominates sales, while lower segment dominates profitability
+- Majority of demand is concentrated in mid-range models, with limited traction for premium devices
 
 ## 💡 Key Business Recommendations
-- Focus on Basmati category expansion (high profit driver)
-- Introduce new low-cost brands in small packs to capture price-sensitive customers
-- Increase discounts and promotions in non-festival months to stabilize demand
-- Optimize product mix (small packs for volume + bulk packs for profit)
-- Launch seasonal strategies aligned with Q4 demand spikes
+- Focus on mid-range segment expansion (₹18K–₹30K) to maximize sales
+- Increase low-cost model offerings to improve profit margins
+- Optimize T4 Pro pricing strategy to close profit gap
+- Reduce focus on premium segment (X200 Ultra) or reposition it
+- Strengthen marketing in declining regions (Tamil Nadu, Andhra)
+- Expand operations in high-growth markets (Karnataka, Telangana)
 
 ## 📈 Conclusion
 
-This analysis reveals that profit is heavily driven by premium and seasonal products, while daily-use products contribute volume but not profitability. By optimizing pricing, product mix, and seasonal strategies, D-Mart can significantly improve year-round revenue stability and profit margins.
+This analysis shows that mid-range smartphones drive volume, while low-price segments drive profitability. Strategic focus on pricing, product mix, and regional targeting can significantly improve market share and overall business performance.
