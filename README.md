@@ -22,6 +22,8 @@ This project analyzes mobile sales, profit performance, and customer buying beha
 - Excel (Data Cleaning & Analysis)
 - Power BI (Dashboard & Visualization)
 
+![](01_Vivo_Project.jpg)
+
 ## 📌 Key Insights
 
 #### 📊 Model Performance
